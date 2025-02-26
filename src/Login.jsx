@@ -21,7 +21,7 @@ const Login = () => {
       <section className="login-container">
         <div id="imagem"></div>
         <div id="campo">
-          <h2>Login</h2>
+          <h2>Login Intranet</h2>
           <br />
           <p>Faça seu login para acessar</p>
 
